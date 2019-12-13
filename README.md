@@ -21,3 +21,5 @@ under .docker folder run:
   docker system prune -a && docker volume prune     # Remove all images and volumes from system
 
 once all containers are running you can access mongodb at: 0.0.0.0:27017 with the username and password that you set on the db configuration
+
+To test that php is working go to localhost:80, you should see the php version served on index.php
