@@ -3,9 +3,11 @@
 This set up allows you to serve your php project on docker.
 
 stop anything on you local dev using port 80
+
 install mongdb compass from: https://www.mongodb.com/download-center/compass
 
 copy .env.sample to .env
+
 copy init-mongo.js.sample to init-mongo.js under mongo folder
 
 under .docker folder run:
