@@ -20,4 +20,4 @@ under .docker folder run:
 
   docker system prune -a && docker volume prune     # Remove all images and volumes from system
 
-once all containers are running you can access mongodb at: 0.0.0.0"27017 with the username and password that you set on the db configuration
+once all containers are running you can access mongodb at: 0.0.0.0:27017 with the username and password that you set on the db configuration
