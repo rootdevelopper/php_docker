@@ -16,4 +16,7 @@ apt-get update -yqq && apt-get install -yqq \
     unzip \
     vim \
     wget \
+    xvfb \
+    wkhtmltopdf \
+    libfontconfig \
 ;
